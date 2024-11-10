@@ -20,7 +20,8 @@ print(saudacao("Rafael"))
 
 
 # Python
-![Imagem python](https://lexica.art/prompt/9ebd000a-de29-4b6f-ba0c-53245a7617b5)
+
+![Imagem python](https://th.bing.com/th/id/OIP.olP14XW3Lt7G5_Zc6gtMBAHaEj?rs=1&pid=ImgDetMain)
 
 
 ## Acesso ao Artigo
@@ -31,3 +32,4 @@ Para dúvidas ou mais informações, entre em contato:
 
 Email 1: rafailusion@hotmail.com
 Email 2: rafaelcesarprestes@gmail.com
+[Linkedin](www.linkedin.com/in/rafaelcesarprestes)
