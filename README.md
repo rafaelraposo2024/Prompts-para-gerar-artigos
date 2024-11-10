@@ -33,4 +33,4 @@ Para dúvidas ou mais informações, entre em contato:
 Email 1: rafailusion@hotmail.com
 Email 2: rafaelcesarprestes@gmail.com\
 
-[Linkedin](www.linkedin.com/in/rafaelcesarprestes)
+[Linkedin](https://www.linkedin.com/in/rafaelcesarprestes/)
